@@ -1,6 +1,5 @@
 # AK-AKKOY PAID TOOL
 
-rm -rf GMBD
 
 pkg update
 
